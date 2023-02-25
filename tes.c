@@ -3,5 +3,8 @@
 int main () {
 	printf("hellaw");
 	printf("hellaw");
+	printf("hellaw");
+	printf("hellaw");
+
   return 0;
 }
